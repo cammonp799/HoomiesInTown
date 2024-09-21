@@ -28,4 +28,5 @@ Le projet vise à offrir une solution simple et intuitive permettant :
  * JavaScript pour les interactions dynamiques (filtrage d’annonces, affichage des détails).
  * Bootstrap 5 pour faciliter la mise en page et offrir une compatibilité mobile.
  * Swiper pour créer un carrousel interactif et fluide, optimisé pour une navigation tactile sur mobile et desktop.
+ * Leaflet pour afficher de manière interactive et intuitive les emplacements des colocations, améliorant ainsi l’expérience utilisateur.
  
