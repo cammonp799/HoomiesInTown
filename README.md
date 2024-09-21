@@ -27,4 +27,5 @@ Le projet vise à offrir une solution simple et intuitive permettant :
  * CSS3 (avec Flexbox et Grid) pour le design responsive et les animations.
  * JavaScript pour les interactions dynamiques (filtrage d’annonces, affichage des détails).
  * Bootstrap 5 pour faciliter la mise en page et offrir une compatibilité mobile.
+ * Swiper pour créer un carrousel interactif et fluide, optimisé pour une navigation tactile sur mobile et desktop.
  
