@@ -1,32 +1,49 @@
-#HOOMIES IN TWN V1 : Site de Colocation
+# HOOMIES IN TOWN Version N°1 : Site de Colocation
 
-#Description
+## Description
 
-Ce projet est un site web de colocation destiné à faciliter la mise en relation entre les personnes cherchant un logement en colocation et 
-les propriétaires ou colocataires proposant des chambres. Il s’agit de la première version sans backend, se concentrant principalement sur 
-l’interface utilisateur (front-end) et l’expérience utilisateur.
+Ce projet est un site de colocation pour aider les étudiants étrangers à trouver un logement. Il permet de mettre en contact ceux qui cherchent une chambre avec des propriétaires ou d'autres colocataires. Pour cette première version, nous avons choisi de travailler seulement sur l'interface du site, sans backend, pour rendre l'expérience simple et agréable.
 
-#Objectif du Projet
+## Objectif du Projet
 
-Le projet vise à offrir une solution simple et intuitive permettant :
+L'idée est de proposer une solution pratique pour :
 
- * La recherche de colocations disponibles selon des critères spécifiques (ville, prix, type de logement).
- * L’affichage des annonces avec photos, descriptions détaillées et informations sur les colocataires potentiels.
- * La mise en avant des colocations écoresponsables ou solidaires .
+- Rechercher des colocations selon des critères spécifiques comme la ville, le prix et le type de logement.
+  
+- Afficher des annonces avec photos, descriptions détaillées et informations sur les colocataires potentiels.
+  
+- Mettre en avant des colocations écoresponsables ou solidaires.
 
-#Fonctionnalités Clés
+  
+##  Fonctionnalités Clés
 
- * Page d’accueil : Présente une interface claire avec une barre de recherche et des filtres (ville, budget, type de logement).
- * Liste des annonces : Affiche toutes les offres de colocation disponibles, avec une pagination pour naviguer facilement.
- * Page de détail : Pour chaque annonce, les utilisateurs peuvent voir des informations détaillées comme les photos, la description du logement, les colocataires actuels, etc.
- * Formulaire de contact : Bien que sans backend, un formulaire de contact est inclus pour une future intégration avec un serveur ou une base de données.
+- Page d’accueil : 
 
-#Technologies Utilisées
+Une interface claire avec une barre de recherche et des filtres (ville, budget, type de logement).
 
- * HTML5 pour la structure du site.
- * CSS3 (avec Flexbox et Grid) pour le design responsive et les animations.
- * JavaScript pour les interactions dynamiques (filtrage d’annonces, affichage des détails).
- * Bootstrap 5 pour faciliter la mise en page et offrir une compatibilité mobile.
- * Swiper pour créer un carrousel interactif et fluide, optimisé pour une navigation tactile sur mobile et desktop.
- * Leaflet pour afficher de manière interactive et intuitive les emplacements des colocations, améliorant ainsi l’expérience utilisateur.
- 
+- Liste des annonces : 
+
+Affichage de toutes les offres de colocation disponibles, avec pagination pour faciliter la navigation.
+
+- Page de détail : 
+
+Pour chaque annonce, on peut consulter des informations complètes comme des photos, une description du logement et des informations sur les colocataires actuels.
+
+- Formulaire de contact : 
+
+Un formulaire est présent pour permettre une future intégration avec un serveur ou une base de données, même sans backend pour l'instant.
+
+
+## Technologies Utilisées
+
+- HTML5 pour la structure du site.
+  
+- CSS3 (avec Flexbox et Grid) pour un design responsive et des animations fluides.
+  
+- JavaScript pour des interactions dynamiques, comme le filtrage des annonces et l’affichage des détails.
+  
+- Bootstrap 5 pour faciliter la mise en page et garantir une compatibilité mobile.
+  
+- Swiper pour un carrousel interactif et fluide, adapté à une navigation sur mobile et desktop.
+  
+- Leaflet pour afficher les emplacements des colocations de manière interactive, rendant ainsi l’expérience utilisateur encore plus agréable.
